@@ -1,0 +1,32 @@
+{
+  "createdAt": "1569924018412",
+  "updatedAt": "1569924018412",
+  "merchantId": "81",
+  "info": {
+    "legalName": "Ivory Grand Hotel Health Club",
+    "displayName": "Ivory Grand Hotel Health Club",
+    "displayInfo": "Ivory Grand Hotel- Health Club",
+    "logoImageUrl": "http://voucherskout.s3-website.eu-central-1.amazonaws.com/images/staging/brandLogos/20181217122939_BRAND_LOGO.jpg"
+  },
+  "location": {
+    "buildingName": "Ivory Grand Hotel Apartments",
+    "clusterName": "Al Barsha 1",
+    "cityId": "3",
+    "clusterId": "2",
+    "name": "al barsha "
+  },
+  "extraInfo": {
+    "title": "Rest a while and run a mile",
+    "message": "Their health club encourages you to pump it up a notch stronger and trimmer than ever before with their state of the art gym equipments and immensely friendly staff.",
+    "menuLink": "http://voucherskout.s3-website.eu-central-1.amazonaws.com/images/staging/offerPriceGuides/20181217123005_OFFER_PRICE_GUIDE.pdf"
+  },
+  "imageUrls": ["http://voucherskout.s3-website.eu-central-1.amazonaws.com/images/staging/offerImages/20181217122912_OFFERS_IMAGES.jpg", "http://voucherskout.s3-website.eu-central-1.amazonaws.com/images/staging/offerImages/20181217122920_OFFERS_IMAGES.jpg"],
+  "provider": {
+    "partnerId": "1",
+    "entityId": "674"
+  },
+  "isOnline": "false",
+  "isDiscoverable": "true",
+  "processedName": "ivory grand hotel health club ",
+  "customerTypes": ["1"]
+}
